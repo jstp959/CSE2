@@ -150,6 +150,9 @@ public class Arithmetic {
     totalPurchases= (int) totalPurchases;                               //print with two decimals
     totalPurchases= (double) totalPurchases /100;
     
+    
+    
+    
 
     //Print out the calculated data by section
     System.out.println("***************************************************");
@@ -159,7 +162,7 @@ public class Arithmetic {
     System.out.println(" "+nEnvelopes+" box of envelopes for $"+envelopeCost$+" each");
     System.out.println("");
     System.out.println("");
-    System.out.println("The total cost for each item and its respective tax are:");
+    System.out.println("The total cost for each item with tax and its respective tax are:");
     System.out.println("$"+totalSockCost+"0 for the socks ($"+eachTaxSock+" each) including $"+salesTaxSock+" in tax ($"+taxPerSock+" each)");
     System.out.println("$"+totalGlassCost+" for the glasses ($"+eachTaxGlass+" each) including $"+salesTaxGlass+" in tax ($"+taxPerGlass+" each)");
     System.out.println("$"+totalEnvelopeCost+" for boxes of envelopes ($"+eachTaxEnvelope+" each) including $"+salesTaxEnvelope+" in tax ($"+taxPerEnvelope+" each)");
