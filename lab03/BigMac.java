@@ -6,9 +6,9 @@
 
 import java.util.Scanner;
 
-// comment here
+// import java scanner to use scanner class
 //
-//
+// begin class BigMac
 public class BigMac {
     //main nmethod required
     public static void main (String[] args) {
