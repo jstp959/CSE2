@@ -87,6 +87,3 @@ public class Cookies{
 
 }  //end of main method   
   	} //end of class
-  	
-  	
-//FIX PROBLEM OF DECIMALS

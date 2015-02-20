@@ -1,7 +1,7 @@
 //John St. Pierre       2/13/15
 //[CSE2] hw 04
 
-// Cookies
+// Which Number
 // Program will:   determine number on the interval 1-10 by asking a series of questions
 
 
