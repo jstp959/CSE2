@@ -147,8 +147,6 @@ public class CSE2Linear{
     public static void linear(int array[], int key){
         //begin loop going through array
         for(int i = 0; i<14; i++){
-            //keep track of incraments
-            counter = i + 1;
             //key has been found
             if(array[i] == key){
                 System.out.println(key + " was in the list with " + (i + 1) + " iterations");
