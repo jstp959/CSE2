@@ -1,7 +1,7 @@
 //John St. Pierre       4/19/15
 //[CSE2] hw12
 
-//Remove Elements
+// Multiply
 // Program will:  multiply arrays
 
 import java.util.Scanner;
